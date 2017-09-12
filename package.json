@@ -1,0 +1,28 @@
+{
+  "name": "nodemongo",
+  "version": "1.0.0",
+  "description": "Node.js and MongoDB",
+  "main": "Server.js",
+  "scripts": {
+    "test": "phanndom"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhannDom/MST-Project01-14110354.git"
+  },
+  "keywords": [
+    "Node.js",
+    "mongoDB"
+  ],
+  "author": "PhannDom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhannDom/MST-Project01-14110354/issues"
+  },
+  "homepage": "https://github.com/PhannDom/MST-Project01-14110354#readme",
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.11"
+  }
+}
